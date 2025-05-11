@@ -1,5 +1,7 @@
 # Simple DeFi App
 
+FRONT END REPO: https://github.com/umashankar-tech/Simple-Defi-Dapp-Frontend
+
 This project demonstrates a simple DeFi smart contract workflow using [Foundry](https://book.getfoundry.sh/), including local deployment with Anvil and integration with a React frontend.
 
 ## Features
